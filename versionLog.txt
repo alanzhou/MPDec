@@ -1,0 +1,26 @@
+versionLog.txt
+Version log of the MPDec MSVC++ Express 2010 project.
+Author: Alan Bao Jian ZHOU
+Created: 9:17 PM 7/23/2014
+Last-modified: 4:39 PM 9/26/2014
+
+
+v1.2
+4:39 PM 9/26/2014
+1. Use the MPDecoder class v2.3.
+
+
+v1.1.1
+1. Limit ouput value of atanh().
+
+
+v1.1
+1:48 AM 7/24/2014
+1. Improved function interfaces.
+2. Fixed the bug that messages are not initialized before decoding.
+3. Use better example: (3, 1) repetition code.
+
+
+v1.0
+9:15 PM 7/23/2014
+1. Implemented message passing algorithm.
